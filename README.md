@@ -1,4 +1,4 @@
-- 👋 Hi, I’m dashenhahaha.
+- 👋 Hi, I’m dshhh.
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning c,c++.
 - 💞️ I’m looking to collaborate on brave and friendly programmer.
